@@ -1,1 +1,3 @@
-This is sample text doc created for GIT demo. Changes pushed to remote repository. Changing test1 file
+This is sample text doc created for GIT demo. Changes pushed to remote repository. Changing test1 file.
+
+Test conflicts
