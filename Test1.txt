@@ -1,1 +1,2 @@
-This is sample text doc created for GIT demo. Changes pushed to remote repository
+This is sample text doc created for GIT demo. Changes pushed to remote repository. 
+Changes for Pull command
